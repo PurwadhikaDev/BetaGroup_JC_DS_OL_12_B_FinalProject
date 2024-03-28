@@ -39,7 +39,7 @@ Kualitas air yang memadai sebagai air minum yang layak adalah air dengan Paramet
 - Hardness : < 300
 - Solid : <600 mg/l
 - Sulfate : 250
-Model Random Forest memiliki tingkat presisi 67% dalam mengidentifikasi air tidak layak dan 73% untuk air layak. Meskipun berhasil memfilter sebagian besar air tidak layak, masih diperlukan peningkatan dalam mengenali air layak. Meskipun demikian, penggunaan model ini dapat membantu mengurangi risiko menerima air tidak layak.
+- Model Random Forest memiliki tingkat presisi 67% dalam mengidentifikasi air tidak layak dan 73% untuk air layak. Meskipun berhasil memfilter sebagian besar air tidak layak, masih diperlukan peningkatan dalam mengenali air layak. Meskipun demikian, penggunaan model ini dapat membantu mengurangi risiko menerima air tidak layak.
 
 - *Tanpa Model :*
 (semua sumber mata air kita lakukan uji) :
