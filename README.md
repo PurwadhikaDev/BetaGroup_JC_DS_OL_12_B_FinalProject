@@ -2,7 +2,7 @@
 #### Created by : Ganeswara Pramudita, Nur Achmey Selgi Harwanti dan Anisa Maulidina ####
 
 - Data Source : [link di sini](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
-- Tableau Dashboard : [Klik link ini](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
+- Tableau Dashboard : [Klik link ini](https://public.tableau.com/app/profile/ganeswara.pramudita/viz/JCDSFinalProjectBeta/Dashboard1?publish=yes)
 
 ### Context ### 
 Akses yang merata dan aman terhadap air minum adalah tujuan utama dalam menjaga kesehatan masyarakat, sesuai dengan Tujuan Pembangunan Berkelanjutan (SDGs) ke-6. Indonesia berkomitmen mencapai target 100% akses terhadap air minum yang layak pada tahun 2024. Penting bagi penyedia air minum untuk memastikan bahwa sumber air yang disediakan memenuhi standar kualitas yang ditetapkan, seperti tingkat kekeruhan (turbidity), tingkat keasaman (pH), dan konsentrasi zat-zat kimia seperti sulfat dan kloramin. Contohnya, WHO menetapkan batas maksimum 5 NTU untuk kekeruhan dan rentang pH 6.5-8.5. Negara lain memiliki standar yang berbeda, seperti Canada yang menetapkan batas maksimum untuk sulfate hingga 500 mg/l. Pengetahuan tentang standar ini penting untuk menilai keselamatan air minum dan memastikan tindakan yang diperlukan jika ada ketidaksesuaian dengan standar yang ditetapkan, demi kesejahteraan dan kesehatan masyarakat yang lebih baik.
